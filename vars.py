@@ -1,9 +1,9 @@
-api_id = 22779671
-api_hash = "125d8d88b77309dc3b154cbbfc2dacb2"
-bot_token = "6948815452:AAHLdIf8gKLDp_MMkt8iSJ6wLOTdsAsIq-I"
-auth_users = [1713924419]
-sudo_user = 1713924419
-log_channel = -1002143629860
-txt_channel = -1002049391187
+api_id = 35660536
+api_hash = "2ea7ff22213bea8f7799c6b55cdbbde8"
+bot_token = "8329476510:AAGZxijdg068VGaOZtMy0zTMdcEpzoM0tsQ"
+auth_users = [868395279]
+sudo_user = 868395279
+log_channel = -1003569249837
+txt_channel = -1003569249837
 
 
